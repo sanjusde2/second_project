@@ -16,3 +16,6 @@ print(single_data)
 pointer.close()
 db.close()
 print("add new content")
+
+
+print("payment feature added can you please check it once..")
