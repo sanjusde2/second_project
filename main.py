@@ -15,4 +15,4 @@ print(single_data)
 
 pointer.close()
 db.close()
-
+print("add new content")
